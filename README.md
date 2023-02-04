@@ -4,6 +4,6 @@
 
 # ultimate-javascript
 
-**Ultimate Preparation Guide for the JavaScript Interview 🌟**
+**Ultimate Preparation Guide for JavaScript Interviews 🌟**
 
 </div>
