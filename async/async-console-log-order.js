@@ -1,3 +1,5 @@
+// In what order will the numbers be displayed?
+
 console.log(1);
 
 setTimeout(() => {
