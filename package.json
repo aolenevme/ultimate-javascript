@@ -1,0 +1,38 @@
+{
+  "name": "ultimate-javascript",
+  "version": "1.0.0",
+  "description": "Ultimate Preparation Guide for the JavaScript Interview 🌟",
+  "main": "README.md",
+  "scripts": {
+    "lint": "npx prettier --check ./ --ignore-unknown",
+    "lint:fix": "npx prettier --write ./",
+    "prepare": "husky install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aolenevme/ultimate-javascript.git"
+  },
+  "keywords": [
+    "javascript",
+    "frontend",
+    "backend",
+    "interview",
+    "interview-practice",
+    "interview-questions",
+    "interview-preparation"
+  ],
+  "author": "Alexander Olenev <hello@aolenev.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aolenevme/ultimate-javascript/issues"
+  },
+  "homepage": "https://github.com/aolenevme/ultimate-javascript#readme",
+  "devDependencies": {
+    "husky": "^8.0.3",
+    "lint-staged": "^13.1.0",
+    "prettier": "2.8.3"
+  },
+  "lint-staged": {
+    "**/*": "npm run lint"
+  }
+}
