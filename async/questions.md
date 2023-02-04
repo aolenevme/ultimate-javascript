@@ -1,7 +1,7 @@
 # Questions 🤔
 
 1. What is an event loop? Why can it fill up?
-2. What are macro- and microtasks? In what order are they called? Is it possible to schedule the execution of macro and micro tasks manually?
+2. What are macro- and microtasks? In what order are they called? Is it possible to schedule the execution of macro- and microtasks manually?
 3. Why are async/await and promises better than callbacks?
 4. What are the promise prototype methods?
 5. How to handle errors during asynchronous work?
