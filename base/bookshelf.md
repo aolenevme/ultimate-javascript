@@ -10,6 +10,7 @@
 - [What is HTTP/3?](https://www.cloudflare.com/en-gb/learning/performance/what-is-http3/)
 - [HTTP/3 From A To Z: Core Concepts](https://www.smashingmagazine.com/2021/08/http3-core-concepts-part1)
 - [WebSockets vs. Server-Sent Events](https://blog.bitsrc.io/websockets-vs-server-sent-events-968659ab0870)
+- [Local and Session Storage](https://tutorial.techaltum.com/local-and-session-storage.html)
 - [Using HTTP Cookies](https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies)
 - [Cookie Size Limits](https://stackoverflow.com/questions/640938/what-is-the-maximum-size-of-a-web-browsers-cookies-key)
 - [SameSite Cookies](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Set-Cookie/SameSite)

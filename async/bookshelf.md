@@ -4,6 +4,7 @@
 - [Event Loop Timers and NextTick](https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/)
 - [setTimeout in Depth](https://developer.mozilla.org/en-US/docs/Web/API/setTimeout)
 - [Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
+- [Master the JavaScript Interview: What is a Promise?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261)
 - [Tasks, Microtasks, Queues and Schedules](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/)
 - [In-depth: Microtasks and the JavaScript Runtime Environment](https://developer.mozilla.org/en-US/docs/Web/API/HTML_DOM_API/Microtask_guide/In_depth)
 - [Event Loop: Microtasks and Macrotasks](https://javascript.info/event-loop)
