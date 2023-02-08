@@ -20,6 +20,8 @@
 - [RESTful API](https://www.techtarget.com/searchapparchitecture/definition/RESTful-API)
 - [Web Caching Basics: Terminology, HTTP Headers, and Caching Strategies](https://www.digitalocean.com/community/tutorials/web-caching-basics-terminology-http-headers-and-caching-strategies)
 - [How the Browser Renders a Web Page?](https://medium.com/jspoint/how-the-browser-renders-a-web-page-dom-cssom-and-rendering-df10531c9969)
+- [Window: DOMContentLoaded Event](https://developer.mozilla.org/en-US/docs/Web/API/Window/DOMContentLoaded_event)
+- [Window: Load Event](https://developer.mozilla.org/en-US/docs/Web/API/Window/load_event)
 - [Three JavaScript Articles and One Best Practice](https://www.quirksmode.org/blog/archives/2005/06/three_javascrip_1.html)
 - [Scripts: Async, Defer](https://javascript.info/script-async-defer)
 - [Faster Page Loads Using Server Think-Time with Early Hints](https://developer.chrome.com/blog/early-hints)
