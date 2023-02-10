@@ -24,6 +24,7 @@
 - [Window: DOMContentLoaded Event](https://developer.mozilla.org/en-US/docs/Web/API/Window/DOMContentLoaded_event)
 - [Window: Load Event](https://developer.mozilla.org/en-US/docs/Web/API/Window/load_event)
 - [Three JavaScript Articles and One Best Practice](https://www.quirksmode.org/blog/archives/2005/06/three_javascrip_1.html)
+- [Window.requestAnimationFrame()](https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame)
 - [Scripts: Async, Defer](https://javascript.info/script-async-defer)
 - [Faster Page Loads Using Server Think-Time with Early Hints](https://developer.chrome.com/blog/early-hints)
 - [Preload, Preconnect, Prefetch: Improve Your Site's Performance with Resource Hints](https://nitropack.io/blog/post/resource-hints-performance-optimization)

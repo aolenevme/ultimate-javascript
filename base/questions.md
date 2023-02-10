@@ -12,3 +12,4 @@
 - Difference between GET, PUT, POST, PATCH, DELETE methods. What is RESTful?
 - Which HTTP methods are idempotent?
 - How to code optimized animation?
+- Could you give animation use cases via JavaScript?
