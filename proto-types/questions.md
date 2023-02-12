@@ -1,15 +1,14 @@
 # Questions 🤔
 
-- What is an event loop? Why can it fill up?
-- What are macro- and microtasks? In what order are they called? Is it possible to schedule the execution of macro- and microtasks manually?
-- Explain the difference between synchronous and asynchronous functions.
-- Why are async/await and promises better than callbacks?
-- What are the promise prototype methods?
-- What is the extent of your experience with Promises and/or their polyfills?
-- How to handle errors during asynchronous work?
-- Can a web application be multi-threaded? If so, how? In what cases is it necessary?
-- What APIs does WebWorker have access to?
-- Generators and iterators. What are they needed for?
-- `for await...of` vs. `Promise.all` vs. `Promise.allSettled`
-- The difference between multithreading and asynchrony.
-- What can't a PWA exist without?
+- List all data types. List all embedded collections and a couple of their prototype methods each.
+- What are explicit and implicit type coercions? Give at least one example of the former and the latter.
+- If we want to disallow `Object` to primitive type conversion, which prototype methods do we need to override?
+- The difference between `var` vs. `let` vs. `const`.
+- `WeakMap` vs. `Map` and `WeakSet` vs. `Set`.
+- `Array.prototype.forEach` vs. `for (;;)`. Which of these is more flexible?
+- Is multiple inheritance possible in JavaScript and why?
+- What is prototype contamination?
+- Why is the `new` operator needed? How does it work? When does it not work?
+- What is a polyfill? And why might it be needed?
+- What is immutability? What are some native ways to make data in JavaScript immutable?
+- `shift`, `unshift`, `push`, `pop`. Divide into two parts: fastest and slowest procedures. And why?
