@@ -3,6 +3,7 @@
 - [Data Types](https://javascript.info/data-types)
 - [JavaScript Data Types and Data Structures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
 - [Constructor, Operator "new"](https://javascript.info/constructor-new)
+- [Arrow Function Expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
 - [Prototypes, Inheritance](https://javascript.info/prototypes)
 - [The Strict Equality Comparison Algorithm](https://262.ecma-international.org/5.1/#sec-11.9.6)
 - [The Abstract Equality Comparison Algorithm](https://262.ecma-international.org/5.1/#sec-11.9.3)
