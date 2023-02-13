@@ -20,7 +20,6 @@ console.log(Object.is(+0, -0));
 console.log(null === undefined);
 console.log(null === null);
 console.log(undefined == undefined);
-console.log(undefined === undefined);
 console.log(Symbol("1") === Symbol("1"));
 console.log({ a: 1 } === { a: 1 });
 console.log({ a: 1 } == { a: 1 });
