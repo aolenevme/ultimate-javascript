@@ -1,3 +1,5 @@
+// What will be printed?
+
 Object.prototype.toString = () => {
   throw new TypeError("Heh :)");
 };
