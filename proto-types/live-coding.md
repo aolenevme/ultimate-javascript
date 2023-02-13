@@ -1,3 +1,3 @@
 # Live Coding 🧑🏼‍💻
 
-- [What will be printed?](./types.js)
+- [What will be printed?](./coercions.js)
