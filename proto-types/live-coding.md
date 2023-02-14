@@ -1,4 +1,5 @@
 # Live Coding 🧑🏼‍💻
 
-- [What will be printed?](./coercions.js)
-- [Make it to print true.](./array-prototype-methods.js)
+- [Type coercions](./coercions.js)
+- [Array prototype methods](./array-prototype-methods.js)
+- [Prototype inheritance and properties' definition](./properties.js)

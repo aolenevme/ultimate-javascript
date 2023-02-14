@@ -1,6 +1,8 @@
-// Make it to print true
+import assert from "node:assert/strict";
 
-const data = [
+// Implement logic to pass the test.
+
+const rawArray = [
   1,
   2,
   3,
@@ -17,8 +19,6 @@ const data = [
   Symbol("a"),
   BigInt("1"),
 ];
-
-const result = ["one", "two", "three", "{} is an object", "true", "BigInt 1"];
 
 const filterMap = (array) => {
   const filtered = array.filter(() => {
@@ -43,15 +43,7 @@ const reduce = (array) => {
   return reduced;
 };
 
-const areEqual = (array1, array2, array3) => {
-  const stringifiedFirstArray = JSON.stringify(array1);
-  const stringifiedSecondArray = JSON.stringify(array2);
-  const stringifiedThirdArray = JSON.stringify(array3);
+const result = ["one", "two", "three", "{} is an object", "true", "BigInt 1"];
 
-  return (
-    stringifiedFirstArray === stringifiedSecondArray &&
-    stringifiedSecondArray === stringifiedThirdArray
-  );
-};
-
-console.log(areEqual(result, filterMap(data), reduce(data)));
+assert.deepEqual(filterMap(rawArray), result);
+assert.deepEqual(reduce(rawArray), result);
