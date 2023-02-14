@@ -22,12 +22,12 @@ const rawArray = [
 
 const filterMap = (array) => {
   const filtered = array.filter(() => {
-    // Implement the correct filter function
+    // Implement the correct filter logic.
     return true;
   });
 
   const mapped = filtered.map((current) => {
-    // Implement the correct map function
+    // Implement the correct map logic.
     return current;
   });
 
@@ -36,7 +36,7 @@ const filterMap = (array) => {
 
 const reduce = (array) => {
   const reduced = array.reduce((accumulator) => {
-    // Implement the correct reduce function
+    // Implement the correct reduce logic.
     return accumulator;
   }, []);
 
