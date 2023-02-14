@@ -17,8 +17,7 @@ const Rabbit = {
 // Write your code here.
 
 const keys = [];
-
-for (const key of keys) {
+for (const key in Rabbit) {
   keys.push(key);
 }
 
