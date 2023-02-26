@@ -6,4 +6,4 @@
 - What is the context losing? Can you give an example? How can we fix the context?
 - What is the difference between a function expression and an arrow function? When we cannot use arrow functions?
 - How does `this` work within arrow functions? Can you give several examples?
-- What is a currying?
+- What is currying?
