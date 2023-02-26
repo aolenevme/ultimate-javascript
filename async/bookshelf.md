@@ -9,6 +9,8 @@
 - [In-depth: Microtasks and the JavaScript Runtime Environment](https://developer.mozilla.org/en-US/docs/Web/API/HTML_DOM_API/Microtask_guide/In_depth)
 - [Event Loop: Microtasks and Macrotasks](https://javascript.info/event-loop)
 - [What the Heck is The Event Loop Anyway? | Philip Roberts | JSConf EU](https://youtu.be/8aGhZQkoFbQ)
+- [setImmediate() vs nextTick() vs setTimeout(fn,0) - in Depth Explanation](https://www.voidcanvas.com/setimmediate-vs-nexttick-vs-settimeout/)
+- [Using requestIdleCallback](https://developer.chrome.com/blog/using-requestidlecallback/)
 - [Задачи на собеседованиях. Event loop. JS](https://habr.com/ru/post/681882/)
 - [Iterators and Generators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Iterators_and_Generators)
 - [The Power of JS Generators by Anjana Vakil](https://www.youtube.com/watch?v=gu3FfmgkwUc)

@@ -3,6 +3,7 @@
 - What is an event loop? Why can it fill up?
 - What are macro- and microtasks? In what order are they called? Is it possible to schedule the execution of macro- and microtasks manually?
 - Explain the difference between synchronous and asynchronous functions.
+- What is the difference between `setImmediate`, `setTimeout`, `requestAnimationFrame`, `requestIdleCallback`, `queueMicrotask`? Can you give use cases for each?
 - Why are async/await and promises better than callbacks?
 - What are the promise prototype methods?
 - What is the extent of your experience with Promises and/or their polyfills?
