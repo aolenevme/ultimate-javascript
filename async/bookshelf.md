@@ -13,6 +13,7 @@
 - [Using requestIdleCallback](https://developer.chrome.com/blog/using-requestidlecallback/)
 - [Задачи на собеседованиях. Event loop. JS](https://habr.com/ru/post/681882/)
 - [Iterators and Generators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Iterators_and_Generators)
+- [Полное Понимание Асинхронности в Браузере](https://habr.com/ru/company/yandex/blog/718084/)
 - [The Power of JS Generators by Anjana Vakil](https://www.youtube.com/watch?v=gu3FfmgkwUc)
 - [try, catch, finally](https://learn.javascript.ru/try-catch)
 - [AbortController](https://developer.mozilla.org/ru/docs/Web/API/AbortController)
