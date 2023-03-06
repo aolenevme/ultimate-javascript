@@ -1,6 +1,7 @@
 # Bookshelf 📚
 
 - [Closures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
+- [Immediately Invoked Function Expressions (IIFEs) Explained](https://nataliecardot.medium.com/immediately-invoked-function-expressions-iifes-explained-501baf835396)
 - [Everything You Need to Know About the JavaScript Scope](https://medium.com/swlh/everything-you-need-to-know-about-the-javascript-scope-f81cbffa9491)
 - [Scope in JavaScript: Function, Block, Lexical, Global](https://devdojo.com/rahulism/scope-in-javascript-function-block-lexical-global)
 - [Arrow Function Expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
@@ -8,4 +9,7 @@
 - [Advanced Working with Functions](https://javascript.info/advanced-functions)
 - [Demystifying Tail Call Optimization](https://dev.to/rohit/demystifying-tail-call-optimization-5bf3)
 - [Currying](https://javascript.info/currying-partials)
-- [Immediately Invoked Function Expressions (IIFEs) Explained](https://nataliecardot.medium.com/immediately-invoked-function-expressions-iifes-explained-501baf835396)
+- [Partial Function Application in JavaScript and Flow](https://medium.com/@jnkrtech/partial-function-application-in-javascript-and-flow-7f3ca87074fe)
+- [Lazy Evaluation in JavaScript](https://itnext.io/lazy-evaluation-in-javascript-62b8ec45e0f6)
+- [Understanding Higher-Order Functions in JavaScript](https://blog.bitsrc.io/understanding-higher-order-functions-in-javascript-75461803bad)
+- [Mostly Adequate Guide to FP in Javascript](https://github.com/MostlyAdequate/mostly-adequate-guide)
