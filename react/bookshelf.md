@@ -9,5 +9,5 @@
 - [What is the Virtual DOM in React?](https://blog.logrocket.com/virtual-dom-react)
 - [React Batching](https://www.robinwieruch.de/react-batching)
 - [React Anti-Patterns and Best Practices - Do's and Don'ts](https://www.perssondennis.com/articles/react-anti-patterns-and-best-practices-dos-and-donts)
-- [Replacing Component Lifecycle Methods with React Hooks](https://blog.carbonfive.com/replacing-component-lifecycle-methods-with-react-hooks)
 - [React Lifecycle Methods Diagram](https://github.com/wojtekmaj/react-lifecycle-methods-diagram)
+- [Replacing Component Lifecycle Methods with React Hooks](https://blog.carbonfive.com/replacing-component-lifecycle-methods-with-react-hooks)
