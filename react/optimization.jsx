@@ -23,7 +23,7 @@ function Text({ veryGreedyValue }) {
 }
 
 export default function Component() {
-  const [shouldIncrement, setShouldIncrement] = useState(false);
+  const [shouldIncrement, setShouldIncrement] = useState(true);
 
   return (
     <>
