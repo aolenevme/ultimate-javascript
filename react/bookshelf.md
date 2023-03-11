@@ -6,3 +6,4 @@
 - [useEffect vs useLayoutEffect](https://kentcdodds.com/blog/useeffect-vs-uselayouteffect)
 - [When to useMemo and useCallback](https://kentcdodds.com/blog/usememo-and-usecallback)
 - [The Complete Guide to useRef() and Refs in React](https://dmitripavlutin.com/react-useref-guide)
+- [What is the Virtual DOM in React?](https://blog.logrocket.com/virtual-dom-react)
