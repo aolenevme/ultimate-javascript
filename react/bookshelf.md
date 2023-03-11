@@ -15,3 +15,5 @@
 - [Getting Started with React SyntheticEvent](https://blog.logrocket.com/getting-started-react-synthetic-event)
 - [React Context API: A Deep Dive with Examples](https://blog.logrocket.com/react-context-api-deep-dive-examples)
 - [React Dev Tools — Debug Like a Ninja](https://medium.com/the-thinkmill/react-dev-tools-debug-like-a-ninja-c3a5d09895c6)
+- [Investigate Accessibility Checks](https://github.com/gajus/eslint-config-canonical/blob/main/configurations/jsx-a11y.js)
+- [Investigate Best Practices](https://github.com/gajus/eslint-config-canonical/blob/main/configurations/react.js)
