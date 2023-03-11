@@ -11,3 +11,4 @@
 - [React Anti-Patterns and Best Practices - Do's and Don'ts](https://www.perssondennis.com/articles/react-anti-patterns-and-best-practices-dos-and-donts)
 - [React Lifecycle Methods Diagram](https://github.com/wojtekmaj/react-lifecycle-methods-diagram)
 - [Replacing Component Lifecycle Methods with React Hooks](https://blog.carbonfive.com/replacing-component-lifecycle-methods-with-react-hooks)
+- [Getting Started with React SyntheticEvent](https://blog.logrocket.com/getting-started-react-synthetic-event)
