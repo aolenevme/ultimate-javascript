@@ -12,3 +12,5 @@
 - [React Lifecycle Methods Diagram](https://github.com/wojtekmaj/react-lifecycle-methods-diagram)
 - [Replacing Component Lifecycle Methods with React Hooks](https://blog.carbonfive.com/replacing-component-lifecycle-methods-with-react-hooks)
 - [Getting Started with React SyntheticEvent](https://blog.logrocket.com/getting-started-react-synthetic-event)
+- [React Context API: A Deep Dive with Examples](https://blog.logrocket.com/react-context-api-deep-dive-examples)
+- [React Dev Tools — Debug Like a Ninja](https://medium.com/the-thinkmill/react-dev-tools-debug-like-a-ninja-c3a5d09895c6)
