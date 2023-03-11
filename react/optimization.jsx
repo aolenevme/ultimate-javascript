@@ -1,4 +1,4 @@
-// Suggest at least two ways to optimize the rendering.
+// Suggest at least two ways to optimize the rendering after the clicking.
 
 import React, { useState } from "react";
 
