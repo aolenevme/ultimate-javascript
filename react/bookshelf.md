@@ -5,6 +5,7 @@
 - [Introducing the New JSX Transform](https://reactjs.org/blog/2020/09/22/introducing-the-new-jsx-transform.html)
 - [useEffect vs useLayoutEffect](https://kentcdodds.com/blog/useeffect-vs-uselayouteffect)
 - [When to useMemo and useCallback](https://kentcdodds.com/blog/usememo-and-usecallback)
+- [Exhaustive Dependencies](https://github.com/facebook/react/issues/14920)
 - [The Complete Guide to useRef() and Refs in React](https://dmitripavlutin.com/react-useref-guide)
 - [What is the Virtual DOM in React?](https://blog.logrocket.com/virtual-dom-react)
 - [React Fiber Architecture](https://github.com/acdlite/react-fiber-architecture)
