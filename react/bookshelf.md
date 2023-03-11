@@ -7,6 +7,7 @@
 - [When to useMemo and useCallback](https://kentcdodds.com/blog/usememo-and-usecallback)
 - [The Complete Guide to useRef() and Refs in React](https://dmitripavlutin.com/react-useref-guide)
 - [What is the Virtual DOM in React?](https://blog.logrocket.com/virtual-dom-react)
+- [React Fiber Architecture](https://github.com/acdlite/react-fiber-architecture)
 - [React Batching](https://www.robinwieruch.de/react-batching)
 - [React Anti-Patterns and Best Practices - Do's and Don'ts](https://www.perssondennis.com/articles/react-anti-patterns-and-best-practices-dos-and-donts)
 - [React Lifecycle Methods Diagram](https://github.com/wojtekmaj/react-lifecycle-methods-diagram)
