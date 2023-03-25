@@ -16,5 +16,6 @@
 - [React Context API: A Deep Dive with Examples](https://blog.logrocket.com/react-context-api-deep-dive-examples)
 - [React Dev Tools — Debug Like a Ninja](https://medium.com/the-thinkmill/react-dev-tools-debug-like-a-ninja-c3a5d09895c6)
 - [React Anti-Patterns and Best Practices - Do's and Don'ts](https://www.perssondennis.com/articles/react-anti-patterns-and-best-practices-dos-and-donts)
+- [Render Props Pattern](https://www.patterns.dev/posts/render-props-pattern)
 - [Investigate Accessibility Checks](https://github.com/gajus/eslint-config-canonical/blob/main/configurations/jsx-a11y.js)
 - [Investigate Quality Checks](https://github.com/gajus/eslint-config-canonical/blob/main/configurations/react.js)
