@@ -1,6 +1,6 @@
 # Bookshelf 📚
 
-- [React Docs](https://reactjs.org/docs/getting-started.html)
+- [React Docs](https://react.dev)
 - [React v18.0](https://reactjs.org/blog/2022/03/29/react-v18.html)
 - [Introducing the New JSX Transform](https://reactjs.org/blog/2020/09/22/introducing-the-new-jsx-transform.html)
 - [useEffect vs useLayoutEffect](https://kentcdodds.com/blog/useeffect-vs-uselayouteffect)
