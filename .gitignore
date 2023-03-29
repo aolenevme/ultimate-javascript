@@ -2,3 +2,4 @@ node_modules
 **/*.swp
 **/*.swo
 **/*.owp
+**/.DS_Store
