@@ -1,4 +1,4 @@
-// Suggest at least two ways to optimize the rendering after the clicking.
+// Suggest all possible ways to optimize the <Component />.
 
 import React, { useState } from "react";
 
@@ -19,7 +19,7 @@ function getCounter(shouldIncrement) {
 }
 
 function Text({ veryGreedyValue }) {
-  return veryGriddyValue;
+  return <p>{veryGreedyValue}</p>;
 }
 
 export default function Component() {
@@ -29,7 +29,7 @@ export default function Component() {
     <>
       <button
         onClick={() => {
-          setCounter(counter + 1);
+          setShouldIncrement(!shouldIncrement);
         }}
       >
         Click me!
