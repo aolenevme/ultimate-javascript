@@ -4,3 +4,4 @@
 - What are the ways to track `<body />` size changes?
 - What are the ways to implement the infinite scrolling?
 - Where can we find the most concrete information about the user's device visiting the webpage?
+- What Web APIs would you use if you need to code an in-browser game?
