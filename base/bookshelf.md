@@ -30,3 +30,8 @@
 - [Faster Page Loads Using Server Think-Time with Early Hints](https://developer.chrome.com/blog/early-hints)
 - [Preload, Preconnect, Prefetch: Improve Your Site's Performance with Resource Hints](https://nitropack.io/blog/post/resource-hints-performance-optimization)
 - [How to Create High-Performance CSS Animations](https://web.dev/animations-guide)
+- [Where To Include JS & CSS In The HTML Page And Why?](https://softauthor.com/where-to-include-js-css-in-the-html-page-and-why/)
+- [Eliminate render-blocking resources](https://developer.chrome.com/en/docs/lighthouse/performance/render-blocking-resources/)
+- [Render Blocking CSS](https://web.dev/critical-rendering-path-render-blocking-css/)
+- [Web Vitals](https://web.dev/vitals/)
+- [What are the main CDN benefits?](https://www.cloudflare.com/en-gb/learning/cdn/cdn-benefits/)

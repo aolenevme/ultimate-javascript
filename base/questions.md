@@ -13,3 +13,5 @@
 - Which HTTP methods are idempotent?
 - How to code optimized animation?
 - Could you give animation use cases via JavaScript?
+- What problems do CDNs solve?
+- A user comes over saying that the page on his device `loads slowly`? What do you think your strategy might be to identify the problem? Could you describe your investigation process?
