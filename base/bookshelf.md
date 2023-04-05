@@ -34,3 +34,4 @@
 - [Eliminate render-blocking resources](https://developer.chrome.com/en/docs/lighthouse/performance/render-blocking-resources/)
 - [Render Blocking CSS](https://web.dev/critical-rendering-path-render-blocking-css/)
 - [Web Vitals](https://web.dev/vitals/)
+- [What are the main CDN benefits?](https://www.cloudflare.com/en-gb/learning/cdn/cdn-benefits/)
