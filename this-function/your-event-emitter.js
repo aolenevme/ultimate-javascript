@@ -29,12 +29,12 @@ eventEmitter.on("event1", event1Hanlder);
 eventEmitter.on("event1", event1Hanlder);
 
 // Must be called twice.
-eventEmitter.emit("event1", "hello world from event1");
+eventEmitter.emit("event1", "hello world from event1 for the first time!");
 
 eventEmitter.off("event1", event1Hanlder);
 
 // No call.
-eventEmitter.emit("event1", "hello world from event1 for the second time");
+eventEmitter.emit("event1", "hello world from event1 for the second time!");
 
 function event2Handler(data) {
   console.log("event2", data);
@@ -42,4 +42,4 @@ function event2Handler(data) {
 
 eventEmitter.on("event2", event2Handler);
 
-eventEmitter.emit("event2", "hello world from event2");
+eventEmitter.emit("event2", "hello world from event2 for the first time");
