@@ -1,5 +1,7 @@
+import assert from "node:assert/strict";
+
 // EventEmitter is a cool concept to decouple the code.
-// Implement YourEventEmitter to pass the cases down below.
+// Implement YourEventEmitter to pass the tests down below.
 
 class YourEventEmitter {
   // Write your code here.
@@ -19,7 +21,7 @@ class YourEventEmitter {
 
 const eventEmitter = new YourEventEmitter();
 
-function event1Hanlder(data) {
+function event1Handler(data) {
   console.log("event1", data);
 }
 
@@ -27,17 +29,17 @@ eventEmitter.on("event1", event1Hanlder);
 eventEmitter.on("event1", event1Hanlder);
 
 // Must be called twice.
-eventEmitter.emit("event1", "hello world event1");
+eventEmitter.emit("event1", "hello world from event1");
 
 eventEmitter.off("event1", event1Hanlder);
 
 // No call.
-eventEmitter.emit("event1", "hello world event1 second");
+eventEmitter.emit("event1", "hello world from event1 second");
 
-function event2Hanlder(data) {
+function event2Handler(data) {
   console.log("event2", data);
 }
 
-eventEmitter.on("event2", event2Hanlder);
+eventEmitter.on("event2", event2Handler);
 
-eventEmitter.emit("event2", "hello world event2");
+eventEmitter.emit("event2", "hello world from event2");
