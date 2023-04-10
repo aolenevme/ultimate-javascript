@@ -1,6 +1,6 @@
 import assert from "node:assert/strict";
 
-// EventEmitter is a cool concept to decouple the code.
+// EventEmitter is a grate pattern to decouple the code.
 // Implement YourEventEmitter to pass the tests down below.
 
 class YourEventEmitter {
@@ -19,27 +19,34 @@ class YourEventEmitter {
   }
 }
 
+const tracker = new assert.CallTracker();
+
 const eventEmitter = new YourEventEmitter();
 
-function event1Handler(data) {
-  console.log("event1", data);
-}
+// Event 1.
+const event1Data = "event1 is called";
+const event1Handler = (data) => {
+  assert.deepEqual(data, event1Data);
+};
+const trackedEvent1Handler = tracker.calls(event1Handler, 2);
 
-eventEmitter.on("event1", event1Hanlder);
-eventEmitter.on("event1", event1Hanlder);
+eventEmitter.on("event1", trackedEvent1Handler);
+eventEmitter.on("event1", trackedEvent1Handler);
+eventEmitter.emit("event1", event1Data);
+eventEmitter.off("event1", trackedEvent1Handler);
+eventEmitter.emit("event1", event1Data);
 
-// Must be called twice.
-eventEmitter.emit("event1", "hello world from event1 for the first time!");
+// Event 2.
+const event2Data = "event2 is called";
+const event2Handler = (data) => {
+  assert.deepEqual(data, event2Data);
+};
+const trackedEvent2Handler = tracker.calls(event2Handler, 1);
 
-eventEmitter.off("event1", event1Hanlder);
+eventEmitter.on("event2", trackedEvent2Handler);
+eventEmitter.emit("event2", event2Data);
 
-// No call.
-eventEmitter.emit("event1", "hello world from event1 for the second time!");
-
-function event2Handler(data) {
-  console.log("event2", data);
-}
-
-eventEmitter.on("event2", event2Handler);
-
-eventEmitter.emit("event2", "hello world from event2 for the first time");
+// Verify calls.
+// Event1 must be called twice.
+// Event2 must be called once.
+tracker.verify();
