@@ -34,7 +34,7 @@ eventEmitter.emit("event1", "hello world from event1");
 eventEmitter.off("event1", event1Hanlder);
 
 // No call.
-eventEmitter.emit("event1", "hello world from event1 second");
+eventEmitter.emit("event1", "hello world from event1 for the second time");
 
 function event2Handler(data) {
   console.log("event2", data);
