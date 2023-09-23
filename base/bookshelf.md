@@ -33,5 +33,6 @@
 - [Where To Include JS & CSS In The HTML Page And Why?](https://softauthor.com/where-to-include-js-css-in-the-html-page-and-why/)
 - [Eliminate render-blocking resources](https://developer.chrome.com/en/docs/lighthouse/performance/render-blocking-resources/)
 - [Render Blocking CSS](https://web.dev/critical-rendering-path-render-blocking-css/)
+- [How do browsers read and interpret CSS?](https://stackoverflow.com/questions/3527800/how-do-browsers-read-and-interpret-css)
 - [Web Vitals](https://web.dev/vitals/)
 - [What are the main CDN benefits?](https://www.cloudflare.com/en-gb/learning/cdn/cdn-benefits/)
