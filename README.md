@@ -6,6 +6,6 @@
 
 **Ultimate Preparation Guide for JavaScript Interviews 🌟**
 
-[Base 🏋🏼](./base/README.md) | [Async 🪗](./async/README.md) | [ProtoTypes 😎](./proto-types/README.md) | [This Function 🫦](./this-function/README.md) | [React ☢️](./react/README.md) | [Web APIs 📺](./web-apis/README.md) | [Typescript ⚠️](./typescript/README.md)
+[Base 🏋🏼](./base/README.md) | [Async 🪗](./async/README.md) | [ProtoTypes 😎](./proto-types/README.md) | [This Function 🫦](./this-function/README.md) | [React ☢️](./react/README.md) | [Web APIs 📺](./web-apis/README.md)
 
 </div>
