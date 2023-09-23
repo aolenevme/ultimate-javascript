@@ -7,11 +7,17 @@
 - Difference between document `load` event and document `DOMContentLoaded` event?
 - What are Cookies? How do they work with HttpOnly, Secure and SameSite attributes?
 - Describe the difference between a cookie, sessionStorage and localStorage.
-- Why is CORS needed? Why JSONP appeared?
+- Why is CORS needed?
+- What are preflight requests? What headers do they send with CORS?
+- Why JSONP appeared?
+- What is Certificate Authority?
+- Can you simply describe the Diffie-Hellman algorithm?
+- Can you name differences between request modes of Fetch API?
 - Why is Server-Sent Events cooler than Websockets — and vice versa?
 - Difference between GET, PUT, POST, PATCH, DELETE methods. What is RESTful?
 - Which HTTP methods are idempotent?
 - How to code optimized animation?
 - Could you give animation use cases via JavaScript?
 - What problems do CDNs solve?
+- What Web Vitals are used for?
 - A user comes over saying that the page on his device `loads slowly`? What do you think your strategy might be to identify the problem? Could you describe your investigation process?
