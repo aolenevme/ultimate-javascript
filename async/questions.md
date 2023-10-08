@@ -12,5 +12,6 @@
 - What APIs does WebWorker have access to?
 - Generators and iterators. What are they needed for?
 - `for await...of` vs. `Promise.all` vs. `Promise.allSettled`
+- When do we need lazy collections? What options do we have to implement them in JavaScript?
 - The difference between multithreading and asynchrony.
 - What can't a PWA exist without?
